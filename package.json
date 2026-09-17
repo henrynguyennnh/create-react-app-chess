@@ -1,6 +1,7 @@
 {
   "name": "chess",
   "version": "0.1.0",
+  "homepage": "https://henrynguyennnh.github.io/create-react-app-chess/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
